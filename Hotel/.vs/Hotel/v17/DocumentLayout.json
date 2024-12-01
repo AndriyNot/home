@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\codingC#\\HomeProjects\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|F:\\codingC#\\HomeProjects\\Hotel\\project_hotel\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|f:\\codingc#\\homeprojects\\hotel\\project_hotel\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|F:\\codingC#\\HomeProjects\\Hotel\\project_hotel\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|F:\\codingC#\\HomeProjects\\Hotel\\project_hotel\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|f:\\codingc#\\homeprojects\\hotel\\project_hotel\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|f:\\codingc#\\homeprojects\\hotel\\project_hotel\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|F:\\codingC#\\HomeProjects\\Hotel\\project_hotel\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|f:\\codingc#\\homeprojects\\hotel\\project_hotel\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|f:\\codingc#\\homeprojects\\hotel\\project_hotel\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|F:\\codingC#\\HomeProjects\\Hotel\\hotel_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|solutionrelative:hotel_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|F:\\codingC#\\HomeProjects\\Hotel\\hotel_interface\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|solutionrelative:hotel_interface\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|F:\\codingC#\\HomeProjects\\Hotel\\hotel_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|solutionrelative:hotel_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|F:\\codingC#\\HomeProjects\\Hotel\\hotel_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|solutionrelative:hotel_interface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|F:\\codingC#\\HomeProjects\\Hotel\\hotel_interface\\hotel_interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A6A4F92-F1BE-449B-876F-776A6B75D4A0}|Hotel_Interface\\Hotel_Interface.csproj|solutionrelative:hotel_interface\\hotel_interface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|F:\\codingC#\\HomeProjects\\Hotel\\project_hotel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|F:\\codingC#\\HomeProjects\\Hotel\\project_hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|F:\\codingC#\\HomeProjects\\Hotel\\project_hotel\\project_hotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49F8A411-5F56-4A83-8DA8-F9230FEB5102}|Project_Hotel\\Project_Hotel.csproj|solutionrelative:project_hotel\\project_hotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\Repositories\\ClientRepository.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Project_Hotel\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA2wE8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:16:12.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\Controllers\\ClientController.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Project_Hotel\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:14:51.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\View\\MainView.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\View\\MainView.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\View\\MainView.cs",
+              "RelativeToolTip": "Project_Hotel\\View\\MainView.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA2wEcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:57:45.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Project_Hotel\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:53:45.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\Services\\ClientService.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Services\\ClientService.cs",
+              "RelativeToolTip": "Project_Hotel\\Services\\ClientService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAMwEgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:16:42.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\Repositories\\AccountRepository.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Project_Hotel\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwCgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:56:06.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\Entities\\Account.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Entities\\Account.cs",
+              "RelativeToolTip": "Project_Hotel\\Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:54:44.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\Services\\AccountService.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Services\\AccountService.cs",
+              "RelativeToolTip": "Project_Hotel\\Services\\AccountService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:57:04.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\Entities\\Client.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Entities\\Client.cs",
+              "RelativeToolTip": "Project_Hotel\\Entities\\Client.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvx4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:15:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\App.config",
+              "RelativeDocumentMoniker": "Project_Hotel\\App.config",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\App.config",
+              "RelativeToolTip": "Project_Hotel\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-26T10:01:22.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel_Interface\\Form1.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Form1.cs",
+              "RelativeToolTip": "Hotel_Interface\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:03:01.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hotel_Interface.csproj",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Hotel_Interface.csproj",
+              "RelativeDocumentMoniker": "Hotel_Interface\\Hotel_Interface.csproj",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Hotel_Interface.csproj",
+              "RelativeToolTip": "Hotel_Interface\\Hotel_Interface.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T10:02:11.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel_Interface\\Program.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Program.cs",
+              "RelativeToolTip": "Hotel_Interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:07:35.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel_Interface\\Form1.Designer.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Form1.Designer.cs",
+              "RelativeToolTip": "Hotel_Interface\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T10:06:48.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel_Interface\\Form1.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Hotel_Interface\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Hotel_Interface\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:47:11.909Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Project_Hotel.csproj",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Project_Hotel.csproj",
+              "RelativeDocumentMoniker": "Project_Hotel\\Project_Hotel.csproj",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Project_Hotel.csproj",
+              "RelativeToolTip": "Project_Hotel\\Project_Hotel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T09:45:15.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Hotel\\Program.cs",
+              "ToolTip": "F:\\codingC#\\HomeProjects\\Hotel\\Project_Hotel\\Program.cs",
+              "RelativeToolTip": "Project_Hotel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T09:45:08.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
